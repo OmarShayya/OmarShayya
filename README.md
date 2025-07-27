@@ -58,7 +58,7 @@
 > 🔧 **Tech:** Node.js, Agora, Twilio, Firebase FCM  
 > 📊 **Impact:** 10,000+ users, 99.9% uptime
 
-### 🤖 [DUPLI - AI Avatar Generator](https://github.com/OmarShayya/dupli)
+### 🤖 [DUPLI - AI Avatar Generator]([https://github.com/OmarShayya/dupli](https://play.google.com/store/apps/details?id=com.techconsolidated.avatarcloneyourself&pcampaignid=web_share))
 > **AI-Powered Avatar Creation** - TTS/STT + LLM processing system
 > 
 > 🔧 **Tech:** TypeScript, Queue System, AI APIs  
